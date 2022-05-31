@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const Kata1 = (a, x) => {
     return a.some(i => i === x)
